@@ -2,7 +2,7 @@
 layout: member
 title: Rohan M. Joshi
 preferred-name: Rohan Joshi
-position: Undergraduate Student
+position: Undergraduate Researcher
 handle: rmjoshi
 twitter: 
 github: rohanmjoshi025
